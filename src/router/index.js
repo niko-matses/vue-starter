@@ -2,16 +2,16 @@ import Vue from "vue";
 import VueRouter from "vue-router";
 import goTo from "vuetify/es5/services/goto";
 import Missing from "../views/404.vue";
-import Demo from "../views/Demo.vue";
+import MainDemo from "../views/all-home-version/MainDemo.vue";
 
 Vue.use(VueRouter);
 
 const routes = [
   {
     path: "/",
-    component: Demo,
+    component: MainDemo,
     meta: {
-      title: "Trydo || Creative Agency And Multipurpose Template",
+      title: "Niko Matses | Web Developer &amp; UX Designer",
     },
   },
 

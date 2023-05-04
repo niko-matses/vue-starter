@@ -343,7 +343,7 @@ export default {
       { title: "Pricing Plan", to: "/pricing-plan" },
     ],
 
-    // Bellow mobile menu items
+    // Below mobile menu items
     homeVersionSidebarDropDownItems: [
       {
         items: [

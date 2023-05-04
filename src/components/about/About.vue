@@ -9,12 +9,9 @@
       <v-col lg="7" md="7" cols="12">
         <div class="about-inner inner">
           <div class="section-title">
-            <h2 class="heading-title">About</h2>
+            <h2 class="heading-title">Hello,</h2>
             <p class="description">
-              There are many variations of passages of Lorem Ipsum available,
-              but the majority have suffered alteration in some form, by
-              injected humour, or randomised words which dont look even slightly
-              believable. If you are going to use a passage of Lorem Ipsum,
+              I'm a full-stack developer, passionate about front-end mobile design. My work begins with Design Thinking, UX planning, and goal setting to achieve new business goals and user goals alike.
             </p>
           </div>
           <v-row class="mt--30 mt_sm--10">

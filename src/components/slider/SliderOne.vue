@@ -11,8 +11,9 @@
           <v-col cols="12">
             <div class="inner">
               <h1 class="heading-title theme-gradient">
-                A digital <br />
-                agency.
+                UX Design &
+                <br />
+                Frontend Dev
               </h1>
             </div>
           </v-col>

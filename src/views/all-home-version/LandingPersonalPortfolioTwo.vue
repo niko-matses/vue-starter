@@ -9,9 +9,9 @@
         class="slide personal-portfolio-slider slider-style-3 slider-paralax bg_image bg_image--25 d-flex align-center"
       >
         <BannerThree>
-          <span slot="designation">FREELANCE DIGITAL DESIGNER</span>
+          <span slot="designation">UX Designer & Frontend Engineer</span>
           <h1 class="heading-title" slot="heading-title">
-            Hello, I’m <span>Smith</span> Welcome to my World.
+            Hi, I’m <span>Niko</span> UX Designer & Frontend Engineer.
           </h1>
         </BannerThree>
       </div>
