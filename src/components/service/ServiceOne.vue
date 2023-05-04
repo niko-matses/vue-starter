@@ -35,7 +35,7 @@
         serviceContent: [
           {
             src: require("../../assets/images/icons/icon-01.png"),
-            title: "Business Stratagy",
+            title: "UX / UI Design",
             desc: `There are many variations of passages of Lorem Ipsum available, but
             the majority have suffered.`,
           },

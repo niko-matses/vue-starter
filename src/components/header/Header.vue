@@ -266,12 +266,6 @@
         </v-menu>
         <!-- End blocks dropdown -->
         <v-btn :ripple="false" text to="/contact">Contact</v-btn>
-        <a
-          class="rn-btn"
-          href="https://themeforest.net/checkout/from_item/30195230?license=regular"
-        >
-          <span>buy now</span>
-        </a>
       </v-toolbar-items>
       <!-- End header menu item -->
     </v-app-bar>

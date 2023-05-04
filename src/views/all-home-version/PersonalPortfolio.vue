@@ -18,7 +18,7 @@
         <BannerThree>
           <span slot="designation">Freelance digital designer</span>
           <h1 class="heading-title" slot="heading-title">
-            Hello, I’m <span>Nancy</span> Welcome to my World.
+            Hi, I’m <span>Niko.</span> UX Designer & Web Engineer.
           </h1>
         </BannerThree>
       </div>

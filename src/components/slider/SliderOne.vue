@@ -11,9 +11,9 @@
           <v-col cols="12">
             <div class="inner">
               <h1 class="heading-title theme-gradient">
-                UX Design &
+                UX Designer &
                 <br />
-                Frontend Dev
+                Web Engineer
               </h1>
             </div>
           </v-col>

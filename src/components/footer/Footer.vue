@@ -23,7 +23,7 @@
               <!-- Start Single Widget -->
               <v-col lg="6" sm="6" cols="12">
                 <div class="footer-widget">
-                  <h4>Quick Link</h4>
+                  <h4>Learn More</h4>
                   <ul class="ft-link">
                     <li v-for="(nav, i) in navList" :key="i">
                       <router-link :to="nav.to">{{ nav.navItem }}</router-link>
@@ -60,8 +60,7 @@
               <v-col lg="12">
                 <div class="copyright-text">
                   <p>
-                    Copyright © {{ new Date().getFullYear() }} Rainbow-Themes.
-                    All Rights Reserved.
+                    &copy; {{ new Date().getFullYear() }} Niko Matses
                   </p>
                 </div>
               </v-col>
@@ -80,44 +79,40 @@
       return {
         socialList: [
           {
-            icon: "fa-facebook-f",
-            url: "https://www.facebook.com/",
-          },
-          {
             icon: "fa-linkedin-in",
-            url: "https://www.linkedin.com/",
+            url: "https://www.linkedin.com/in/nikomatses",
           },
           {
             icon: "fa-twitter",
-            url: "https://twitter.com/",
+            url: "https://twitter.com/Nik0media",
           },
           {
             icon: "fa-instagram",
-            url: "https://www.instagram.com/",
+            url: "https://www.instagram.com/niko.media/",
           },
         ],
         navList: [
           {
-            navItem: "Work",
+            navItem: "Projects",
             to: "/portfolio",
+          },
+          {
+            navItem: "Experience",
+            to: "/service",
           },
           {
             navItem: "About",
             to: "/about",
           },
-          {
-            navItem: `Let's Talk`,
-            to: "/contact",
-          },
         ],
         mailList: [
           {
-            mailItem: "admin@example.com",
-            to: "mailto:admin@example.com",
+            mailItem: "978.289.0008",
+            to: "tel:9782890008",
           },
           {
-            mailItem: "hr@example.com",
-            to: "mailto:hr@example.com",
+            mailItem: "nikomatses@gmail.com",
+            to: "mailto:nikomatses@gmail.com",
           },
         ],
       };
