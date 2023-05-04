@@ -47,10 +47,10 @@
             id: 1,
             content: [
               {
-                name: "AKLIMA",
+                name: "Victoria Tran",
                 description:
-                  "Aklima The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections Bonorum et Malorum original.",
-                designation: " COO, AMERIMAR ENTERPRISES, INC.",
+                  "Niko has a natural interest in learning new things and creative problem solving. He is open to new ideas, listens to feedback and continuously pushes for a more positive user experience.",
+                designation: " Digital Media Marketer , International Data Group",
               },
             ],
           },
@@ -58,10 +58,10 @@
             id: 2,
             content: [
               {
-                name: "FATIMA ASRAFY",
+                name: "Nelson Lourenço",
                 description:
-                  "Fatima Asrafy standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections Bonorum et Malorum original.",
-                designation: " COO, AMERIMAR ENTERPRISES, INC.",
+                  "He is a level head, from discussing the rationale behind development standards to providing valued feedback on design prototypes.",
+                designation: "User Interface Designer, TSD Rental",
               },
             ],
           },
@@ -69,10 +69,10 @@
             id: 3,
             content: [
               {
-                name: "JANNAT TUMPA",
+                name: "Phillip Dunn",
                 description:
-                  "Jannat Tumpa The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections Bonorum et Malorum original.",
-                designation: " COO, AMERIMAR ENTERPRISES, INC.",
+                  "Niko opened our eyes to the creative possibilites and his up-to-date knowledge excited us. He delivered a great looking site and continually offers suggestions for better functionality. He knows his stuff and continues to learn.",
+                designation: "Supervisor, Wise Construction",
               },
             ],
           },
@@ -80,10 +80,10 @@
             id: 4,
             content: [
               {
-                name: "JOHNS DUE ",
+                name: "Michael Bourne",
                 description:
-                  "Standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections Bonorum et Malorum original since the 1500s.",
-                designation: " COO, AMERIMAR ENTERPRISES, INC.",
+                  "He's a very organized, determined and intelligent guy who brings a growth mindset to every assignment, and rises to meet new challenges.",
+                designation: "Vice President, Matter Communications",
               },
             ],
           },
@@ -91,21 +91,21 @@
             id: 5,
             content: [
               {
-                name: "JOHN SMITH",
+                name: "Kwadwo Amo-Mensah",
                 description:
-                  "John Smith The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections Bonorum et Malorum original.",
-                designation: " COO, AMERIMAR ENTERPRISES, INC.",
+                  "Niko works well independently as well as with a group. It's nice to work with someone who genuinely cares about what they're doing and the mark they're leaving behind.",
+                designation: "Camp Director (Fairfield, CT), ID Tech Camps",
               },
             ],
           },
           {
             id: 6,
             content: [
-              {
-                name: "AMAR ORTHI",
+            {
+                name: "Greg Colker",
                 description:
-                  "Chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections Bonorum et Malorum original original since the 1500s.",
-                designation: " COO, AMERIMAR ENTERPRISES, INC.",
+                  "We're glad we found Niko! He leveled-up our team by thoughtfully bringing his knowledge and skill in user experience and web development to bear on our project.",
+                designation: "Director of Digital Services, CLB Network",
               },
             ],
           },
@@ -113,21 +113,10 @@
             id: 7,
             content: [
               {
-                name: "FATIMA MA",
+                name: "Greg Colker",
                 description:
-                  "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections Bonorum et Malorum original.",
-                designation: " COO, AMERIMAR ENTERPRISES, INC.",
-              },
-            ],
-          },
-          {
-            id: 8,
-            content: [
-              {
-                name: "JON CUMMINS",
-                description:
-                  "Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections Bonorum et Malorum reproduced below original since the 1500s.",
-                designation: " COO, AMERIMAR ENTERPRISES, INC.",
+                  "With very minimal direction, and in an unfamiliar code base, Niko quickly got our project moving in the right direction and saw it through to the end with testing and revisions.",
+                designation: "Director of Digital Services, CLB Network",
               },
             ],
           },
@@ -161,10 +150,6 @@
           {
             id: 7,
             src: require("../../assets/images/client/testimonial-7.jpg"),
-          },
-          {
-            id: 8,
-            src: require("../../assets/images/client/testimonial-8.jpg"),
           },
         ],
       };
